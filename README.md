@@ -16,11 +16,11 @@ Implementación de algoritmos clásicos utilizando etiquetas y la instrucción `
     * Suma de Fibonacci con su inversa mediante punteros lógicos en arreglos.
 
 ## 🧠 Conceptos y Habilidades Aplicadas
-* [cite_start]**Arquitectura de Computadores:** Manejo de registros y segmentos de memoria[cite: 101, 161].
+* **Arquitectura de Computadores:** Manejo de registros y segmentos de memoria.
 * **Lógica de Bajo Nivel:** Simulación de ciclos mediante saltos manuales (Jumps).
-* [cite_start]**Fundamentos de Programación:** Estructuras de datos básicas y algoritmos de control[cite: 161, 165].
+* **Fundamentos de Programación:** Estructuras de datos básicas y algoritmos de control.
 
 ---
-[cite_start]**Institución:** Universidad Mayor de San Andrés (UMSA) - Carrera de Informática[cite: 10, 16].
+**Institución:** Universidad Mayor de San Andrés (UMSA) - Carrera de Informática.
 **Materia:** Assembler (INF-153).
-[cite_start]**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra)[cite: 1, 2].
+**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra).
