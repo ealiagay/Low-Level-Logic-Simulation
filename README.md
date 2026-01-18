@@ -21,6 +21,6 @@ Implementación de algoritmos clásicos utilizando etiquetas y la instrucción `
 * **Fundamentos de Programación:** Estructuras de datos básicas y algoritmos de control.
 
 ---
-**Institución:** Universidad Mayor de San Andrés (UMSA) - Carrera de Informática.
-**Materia:** Assembler (INF-153).
-**Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra).
+* **Institución:** Universidad Mayor de San Andrés (UMSA) - Carrera de Informática.
+* **Materia:** Assembler (INF-153).
+* **Desarrollador:** [Edwin Aliaga Yujra](https://www.linkedin.com/in/edwin-aliaga-yujra).
